@@ -80,7 +80,7 @@ void loop()
     printSerial(distance);  
         
     // Controla.  
-    pwmDistance((12/6)*255);  
+    digitalControl(distance,waterLvl);
 }  
   
 // Exibe informações no LCD, a cada 1s.  
@@ -174,4 +174,3 @@ int setDuty(int _duty){
   }  
   return duty;  
 }  
-
