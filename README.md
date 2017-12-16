@@ -2,7 +2,7 @@
 ## Projeto de Controle de Sistemas Dinâmicos - Engenharia Elétrica  - UFC
 
 
-  Este projeto destina-se ao desenvolvimento de um controle de tanque de nível utilizando os conceitos de malha fechada. Como conrolador e sensor foram escolhidos respectivamente, o ATMEGA328-P e o HC-SR04.
+  Este projeto destina-se ao desenvolvimento de um controle de tanque de nível utilizando os conceitos de malha fechada. Como conrolador e sensor foram escolhidos respectivamente, o ATMEGA168-P e o HC-SR04.
 
   Os sistemas automáticos de níveis de água atualmente estão presentes em boa parte no cotidiano da vida humana, sejam em industrias ou mesmo nas casas, tendo em vista os conceitos de reutilização ou captação de água. Para controlar estes tipos de sistemas, geralmente utilizam-se de sensores de nível para acionamento da bomba e o controle pode ser feito a partir de um controlador PID ou por histerese, por exemplo. O relatório referente a este projeto se limitará à um controle realizado com base na histerese de sistemas de controle, nos quais os procedimentos serão apresentados mais adiante. A figura abaixo mostra um exemplo esquemático de um sistema hidráulico controlado pela bomba.
 
