@@ -29,7 +29,7 @@ Em um sistema baseado em ações liga/desliga, este controle reduz a vida útil 
   <img src="https://user-images.githubusercontent.com/17098382/34068255-dd05d0a6-e216-11e7-8f38-6c91a22ef8b0.png">
 </p>
 
-  O driver representa a parte de potência de um projeto, sendo este responsável pelo chaveamento de uma alta corrente, pois o controlador não suporta esse nível de potência, sendo assim indispensável. A placa de controle desenvolvida segue abaixo na Figura 2.5.
+  O driver representa a parte de potência de um projeto, sendo este responsável pelo chaveamento de uma alta corrente, pois o controlador não suporta esse nível de potência, sendo assim indispensável. A placa de controle desenvolvida segue abaixo na figura abaixo.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/17098382/34068256-e0c36dfc-e216-11e7-869f-49f4a5daf665.png">
