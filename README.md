@@ -23,23 +23,26 @@ Em um sistema baseado em ações liga/desliga, este controle reduz a vida útil 
   <img src="https://user-images.githubusercontent.com/17098382/34068253-d9ac694c-e216-11e7-8fab-0cd89c61a441.png">
 </p>
 
-O sensor utilizado neste projeto é o sensor ultrassônico HC-SR04, utilizado para medir distâncias entre 2cm até 4m. Com o intuito de fixação na estrutura desenvolvia, o sensor foi encapsulado em um case como mostra a figura abaixo. O esquemático discorrido nesta seção, assim como mais detalhes encontra-se nos anexos do relatório.
+  O sensor utilizado neste projeto é o sensor ultrassônico HC-SR04, utilizado para medir distâncias entre 2cm até 4m. Com o intuito de fixação na estrutura desenvolvia, o sensor foi encapsulado em um case como mostra a figura abaixo. O esquemático discorrido nesta seção, assim como mais detalhes encontra-se nos anexos do relatório.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/17098382/34068255-dd05d0a6-e216-11e7-8f38-6c91a22ef8b0.png">
 </p>
 
-O driver representa a parte de potência de um projeto, sendo este responsável pelo chaveamento de uma alta corrente, pois o controlador não suporta esse nível de potência, sendo assim indispensável. A placa de controle desenvolvida segue abaixo na Figura 2.5.
+  O driver representa a parte de potência de um projeto, sendo este responsável pelo chaveamento de uma alta corrente, pois o controlador não suporta esse nível de potência, sendo assim indispensável. A placa de controle desenvolvida segue abaixo na Figura 2.5.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/17098382/34068256-e0c36dfc-e216-11e7-869f-49f4a5daf665.png">
 </p>
 
+  Segue abaixo os gráficos relativos a dinâmica desse sistema, com o controle desenvolvido até então. Em verde o PWM, em vermelho a referência e em azul a elevação do nível da água.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/17098382/34068270-e4cc452c-e216-11e7-8269-c5abbfba5c6c.png">
 </p>
 
-</p>
+
+## FORK IT!
 
 
 
